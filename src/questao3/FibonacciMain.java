@@ -1,6 +1,6 @@
 package questao3;
 
-public class Main {
+public class FibonacciMain {
 
 
     public static void main(String[] args) {

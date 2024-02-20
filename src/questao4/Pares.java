@@ -5,9 +5,6 @@ public class Pares {
        
         private int mult1=0;
         private Long mult = (long) 1;
-        private int n =0;
-    
-    
         public Long calcularMult(int n){  //funcao que calcula a multiplicação dos pares 
             
             for (int i =1 ; i <=n ;i++){   //laco para percorrer o intervalo    

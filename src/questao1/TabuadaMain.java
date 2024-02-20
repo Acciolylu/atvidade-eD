@@ -1,7 +1,7 @@
 package questao1;
 import java.util.Scanner;
 
-public class Main {
+public class TabuadaMain {
     
 public static void main(String[] args) {
     int num = 0;

@@ -3,9 +3,7 @@ package questao2;
 
 import java.util.Scanner;
 
-import questao1.Tabuada;
-
-public class Main {
+public class OperacaoMain {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
