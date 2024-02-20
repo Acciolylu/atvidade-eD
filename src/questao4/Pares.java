@@ -4,11 +4,12 @@ public class Pares {
 
        
         private int mult1=0;
-        private int mult = 1;
+        private Long mult = (long) 1;
         private int n =0;
     
     
-        public int calcularMult(int n){  //funcao que calcula a multiplicação dos pares 
+        public Long calcularMult(int n){  //funcao que calcula a multiplicação dos pares 
+            
             for (int i =1 ; i <=n ;i++){   //laco para percorrer o intervalo    
                 if (i%2==0) {       //chama a funcao verificar se é par
                     mult1 = i;
